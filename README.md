@@ -29,11 +29,10 @@
 请看参考如下：
 
 《某品牌手机输入法明文上传隐私》
-https://www.bilibili.com/video/BV1KK4y1B7Nr
+* https://www.bilibili.com/video/BV1KK4y1B7Nr
 
 《MIUI 反诈实锤》
-[https://www.v2ex.com/t/960313
+* https://www.v2ex.com/t/960313
 
 《V2EX｜某些运营商开始在光猫内置反诈插件了》
-https://www.reddit.com/r/LiberalGooseGroup/comments/17kuo8b/v2ex%E6%9F%90%E4%BA%9B%E8%BF%90%E8%90%A5%E5%95%86%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%85%89%E7%8C%AB%E5%86%85%E7%BD%AE%E5%8F%8D%E8%AF%88%E6%8F%92%E4%BB%B6%E4%BA%86/
-
+* https://www.v2ex.com/t/986550
